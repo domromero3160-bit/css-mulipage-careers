@@ -1,0 +1,23 @@
+body{
+    background-color: darkgrey;
+    color: whitesmoke;
+    font-family: Arial;
+}
+
+h1{
+    font-family: Impact;
+    background-color:black;
+}
+
+h2{
+    font-family: Impact;
+    background-color: black;
+}
+
+.more-info {
+    background-color: aliceblue;
+    
+}
+#unique {
+    background-color: aliceblue;
+}
